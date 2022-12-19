@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RAHULKUMARNATHU&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumar" /> </p>
 
--  🔭 I’m currently working on **React project**
+-  🔭 I’m currently working on **Nest project**
 
-- 🌱 I’m currently learning **typeScript and nextjs**
+- 🌱 I’m currently learning **typeScript and nestjs**
 
 - 📫 How to reach me **me.kumarrahul9572@gmail.com**
 
