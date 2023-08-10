@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **me.kumarrahul9572@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QIpTcxUzvUfIQTY-769cwf6BAuGKsiGY/view?usp=sharing](https://drive.google.com/file/d/1QIpTcxUzvUfIQTY-769cwf6BAuGKsiGY/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul-kumar-a85a9a202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-kumar-a85a9a202/" height="30" width="40" /></a>
