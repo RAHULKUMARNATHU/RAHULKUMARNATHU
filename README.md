@@ -64,10 +64,12 @@
     &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
   </a>
 </p>
-<p>
-  &nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RAHULKUMARNATHU&&theme=tokyonight" alt="rahulkumar" />
-   &nbsp;<img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=RAHULKUMARNATHU&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rahulkumar" />
+   <p>
+   <img align="left" width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=RAHULKUMARNATHU&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rahulkumar" />
 </p>
-&nbsp;<img align="left" width =500 src="https://github-readme-stats.vercel.app/api?username=RAHULKUMARNATHU&show_icons=true&locale=en&theme=tokyonight" alt="rahulkumar" />
 <p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RAHULKUMARNATHU&&theme=tokyonight" alt="rahulkumar" />
+</p>
+<p>
+<img align="center" width =500 src="https://github-readme-stats.vercel.app/api?username=RAHULKUMARNATHU&show_icons=true&locale=en&theme=tokyonight" alt="rahulkumar" />
 </p>
