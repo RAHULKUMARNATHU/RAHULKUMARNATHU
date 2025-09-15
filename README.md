@@ -65,13 +65,11 @@
   </a>
 </p>
    <p>
-   <img align="left" width= 350 src="https://github-readme-stats.vercel.app/api/top-langs?username=RAHULKUMARNATHU&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rahulkumar" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RAHULKUMARNATHU&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rahulkumar" />
     
-  
-  &nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RAHULKUMARNATHU&&theme=tokyonight" alt="rahulkumar" />
-</p>
-<p>
- 
+  </p>
+  <p>
+ <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=RAHULKUMARNATHU&&theme=tokyonight" alt="rahulkumar" />
 </p>
 <p>
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=RAHULKUMARNATHU&show_icons=true&locale=en&theme=tokyonight" alt="rahulkumar" />
